@@ -1,0 +1,7 @@
+﻿  dicerolls-main.cpp
+C:\Users\mupotsal\source\repos\t04-arrays-n-randomness-the_big_kids-lib-jalen\dicerolls\dicerolls-main.cpp(22,35): warning C4244:  'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\mupotsal\source\repos\t04-arrays-n-randomness-the_big_kids-lib-jalen\dicerolls\dicerolls-main.cpp(22,35): warning C4244:         with
+C:\Users\mupotsal\source\repos\t04-arrays-n-randomness-the_big_kids-lib-jalen\dicerolls\dicerolls-main.cpp(22,35): warning C4244:         [
+C:\Users\mupotsal\source\repos\t04-arrays-n-randomness-the_big_kids-lib-jalen\dicerolls\dicerolls-main.cpp(22,35): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\mupotsal\source\repos\t04-arrays-n-randomness-the_big_kids-lib-jalen\dicerolls\dicerolls-main.cpp(22,35): warning C4244:         ]
+  dicerolls.vcxproj -> C:\Users\mupotsal\Source\Repos\t04-arrays-n-randomness-the_big_kids-lib-jalen\x64\Debug\dicerolls.exe
